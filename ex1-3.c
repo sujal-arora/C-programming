@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-printf("heading\t");
+printf("heading\n");
 int fahr,celsius;
 int lower,upper,step;
 lower=0;
