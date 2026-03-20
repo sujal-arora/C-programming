@@ -1,3 +1,4 @@
+/*to read the input and print output and if there are more then 1 space change blanks to 1*/
 #include <stdio.h>
 
 int main()
