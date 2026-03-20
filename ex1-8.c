@@ -1,3 +1,4 @@
+/*to count number of blanks tabs and newlines*/
 #include <stdio.h>
 
 int main()
